@@ -15,7 +15,7 @@ def rensa_listdubletter(ordlista):
 
 if __name__ == '__main__':
 
-    annonsfil = open('job-posting.txt', 'r')
+    annonsfil = open('textfil.txt', 'r')
     kompetensordsfil = open('skills.txt', 'r')
     # läser in textfilerna jobbannons och kompetenser
 
